@@ -15,4 +15,4 @@
 </br>
 몇 달간 제가 공부할 방향의 길잡이가 되어준 프로젝트였던 것 같습니다.
 
-[Web development process and organized concepts](https://ukym-tistory.tistory.com/entry/%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC-1%EC%A3%BC%EC%B0%A8-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89)
+[Blog - Web development process and organized concepts](https://ukym-tistory.tistory.com/entry/%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC-1%EC%A3%BC%EC%B0%A8-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89)
